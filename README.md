@@ -1,5 +1,5 @@
 # SEO & Accessibility
-## Refactoring a website for improved SEO and Accesibilty
+## Refactoring for improved SEO and Accesibilty
 
 ### Changes/improvements made:
 - SEO
