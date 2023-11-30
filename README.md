@@ -1,5 +1,5 @@
-# Module 1 Challenge
-## Refactoring
+# SEO & Accessibility
+## Refactoring a website for improved SEO and Accesibilty
 
 ### Changes/improvements made:
 - SEO
