@@ -17,6 +17,32 @@ p {
 	font-size: 16px;
 }
 
+.header h1,
+.header nav ul li,
+.content {
+	display: inline-block;
+}
+
+.benefit-article h3,
+.footer {
+	text-align: center;
+}
+
+.header nav,
+.footer h2 {
+	font-size: 20px;
+}
+
+.haeder,
+.benefits {
+	padding: 20px;
+}
+
+.benefits,
+.content {
+	margin: 0 20px;
+}
+
 /* FONTS */
 
 .header,
@@ -34,13 +60,11 @@ p {
 /* HEADER */
 
 .header {
-	padding: 20px;
 	background-color: #2a607c;
 	color: #ffffff;
 }
 
 .header h1 {
-	display: inline-block;
 	font-size: 48px;
 }
 
@@ -52,7 +76,6 @@ p {
 	padding-top: 15px;
 	margin-right: 20px;
 	float: right;
-	font-size: 20px;
 }
 
 .header nav ul {
@@ -60,7 +83,6 @@ p {
 }
 
 .header nav ul li {
-	display: inline-block;
 	margin-left: 25px;
 }
 
@@ -75,14 +97,16 @@ p {
 
 /* CONTENT */
 
+.content-article,
+.content-article h2 {
+	margin-bottom: 20px;
+}
+
 .content {
 	width: 75%;
-	display: inline-block;
-	margin-left: 20px;
 }
 
 .content-article {
-	margin-bottom: 20px;
 	padding: 50px;
 	height: 300px;
 	background-color: #0072bb;
@@ -94,25 +118,25 @@ p {
 }
 
 .content-article h2 {
-	margin-bottom: 20px;
 	font-size: 36px;
+}
+
+.float-left,
+.float-right {
+	margin: 0 25px;
 }
 
 .float-left {
 	float: left;
-	margin-right: 25px;
 }
 
 .float-right {
 	float: right;
-	margin-left: 25px;
 }
 
 /* BENEFITS */
 
 .benefits {
-	margin-right: 20px;
-	padding: 20px;
 	clear: both;
 	float: right;
 	width: 20%;
@@ -127,7 +151,6 @@ p {
 
 .benefit-article h3 {
 	margin-bottom: 10px;
-	text-align: center;
 }
 
 .benefit-article img {
@@ -141,9 +164,4 @@ p {
 .footer {
 	padding: 30px;
 	clear: both;
-	text-align: center;
-}
-
-.footer h2 {
-	font-size: 20px;
 }
