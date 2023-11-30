@@ -1,12 +1,11 @@
 # SEO & Accessibility
-## Refactoring for improved SEO and Accesibilty
+## Refactoring for improved SEO and Accessibility
 
 ### Changes/improvements made:
 - SEO
-- Organized CSS
-- Improved readibily
-- Reduced duplicated code
-- Formatted correctly
+- Organized & reduced duplicated code in CSS
+- Improved semantics of HTML elements and classes
+- Formatted code correctly
 - Improved accessability
 
 [**Link to project**](https://sebzg.github.io/module-1-challenge/)
