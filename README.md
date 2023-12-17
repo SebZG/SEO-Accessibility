@@ -3,6 +3,7 @@
 
 [**Project**](https://sebzg.github.io/SEO-Accessibility/)
 
+##
 ### Changes/improvements made:
 - SEO
 - Organized & reduced duplicated code in CSS
