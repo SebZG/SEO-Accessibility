@@ -1,5 +1,5 @@
 # SEO & Accessibility
-## Refactoring for improved SEO and Accessibility
+ Refactoring for improved SEO and Accessibility
 
 [**Project**](https://sebzg.github.io/SEO-Accessibility/)
 
@@ -10,4 +10,5 @@
 - Formatted code correctly
 - Improved accessability
 
+##
 ![project demo](horiseon-demo.png)
